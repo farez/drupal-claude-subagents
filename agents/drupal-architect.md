@@ -1,6 +1,6 @@
 ---
 name: drupal-architect
-description: Use this agent when you need expert guidance on Drupal development, architecture, or migration projects. Examples include: designing a new Drupal site architecture, planning a migration from Drupal 7 to Drupal 10, troubleshooting complex module interactions, creating custom content types and fields, optimizing site performance, implementing complex business logic through custom modules, planning multi-site architectures, or when you need detailed technical specifications for other developers to implement Drupal solutions.
+description: "Use this agent when you need expert guidance on Drupal development, architecture, or migration projects. Examples include: designing a new Drupal site architecture, planning a migration from Drupal 7 to Drupal 10, troubleshooting complex module interactions, creating custom content types and fields, optimizing site performance, implementing complex business logic through custom modules, planning multi-site architectures, or when you need detailed technical specifications for other developers to implement Drupal solutions."
 tools: Task, Glob, Grep, LS, ExitPlanMode, Read, NotebookRead, WebFetch, TodoWrite, WebSearch, mcp__puppeteer__puppeteer_navigate, mcp__puppeteer__puppeteer_screenshot, mcp__puppeteer__puppeteer_click, mcp__puppeteer__puppeteer_fill, mcp__puppeteer__puppeteer_select, mcp__puppeteer__puppeteer_hover, mcp__puppeteer__puppeteer_evaluate, ListMcpResourcesTool, ReadMcpResourceTool
 ---
 
