@@ -16,7 +16,7 @@ Specialized AI agents for full stack Drupal development, designed to work with C
 ### 1. Clone or Download This Repository
 
 ```bash
-git clone https://github.com/your-username/drupal-claude-subagents.git
+git clone https://github.com/farez/drupal-claude-subagents.git
 cd drupal-claude-subagents
 ```
 
