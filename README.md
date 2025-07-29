@@ -1,3 +1,5 @@
+> Call for contributions: please do submit PRs for updates or new agents to this repo. I'm sure there are more to add here.
+
 # Drupal Claude Code Subagents
 
 Specialized AI agents for full stack Drupal development, designed to work with Claude Code.
